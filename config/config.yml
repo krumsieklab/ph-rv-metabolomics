@@ -1,0 +1,10 @@
+paths:
+  data_dir: "data"
+  output_dir: "outputs"
+
+inputs:
+  maplet_rds: "data/maplet.rds"   # local file, not committed
+
+analysis:
+  seed: 1234
+  alpha: 0.05
