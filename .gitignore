@@ -35,6 +35,8 @@ metrv_models/*
 !assets/
 !assets/README.md
 !assets/graphical_abstract.png
+!figures/
+!figures/graphical_abstract.png
 
 # Scratch notebooks and notebook caches
 notebooks/temp.ipynb
