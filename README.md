@@ -1,4 +1,4 @@
-# ph-rv-metabolomics
+# Metabolomics of Right Ventricular Function in Pulmonary Hypertension
 
 Analysis code for the published paper:
 
